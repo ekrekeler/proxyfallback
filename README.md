@@ -1,6 +1,6 @@
 # SyncTube-proxyfallback
 
-Raw video proxy fallback plugin for [SyncTube](https://github.com/RblSb/SyncTube)
+Raw video proxy fallback plugin for [SyncTube](https://github.com/RblSb/SyncTube).
 
 ## Installation
 
